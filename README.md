@@ -195,13 +195,6 @@ firebase deploy --only hosting
 
 [MoreInfo](https://firebase.google.com/docs/hosting/quickstar)
 
-## :handshake: Contact
-
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/Disney-Plus-Clone.git](https://github.com/SashenJayathilaka/Disney-Plus-Clone.git)
-
-
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
