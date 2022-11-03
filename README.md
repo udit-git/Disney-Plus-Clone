@@ -1,4 +1,5 @@
-# Disney+ Clone with REACT JS
+# Disney+ Clone with REACT JS 
+[As learned from <a href="https://github.com/SashenJayathilaka"> @SashenJayathilaka </a>]
 
 <a href="https://disney-plus-clone-976a1.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
